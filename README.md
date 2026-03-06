@@ -121,6 +121,19 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 7. For report writing, compile the analysis, and results.
    
 
+### Project 3 : Early Detection of Coronary Heart Disease
+
+1. The objective of this project is to develop a machine learning-based system for early prediction of CHD using patient clinical and lifestyle data. The dataset is located in the `data/Heart data` directory.
+2. The dataset contains attributes such as `age`, `gender`, `blood pressure`, `cholesterol level`, `smoking habits`, `glucose level`, and other risk factors.
+3. The project is divided into following parts:-
+   - `Data Preprocessing and Cleaning`: handling missing values, feature selection, and normalization will be applied to improve data quality and model performance.
+   - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features.
+   - `Prediction Task`: Predict the chances of heart disease in patients: Learn a classification algorithm such as logistic regression, and evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
+4. The system can assist healthcare professionals by providing `early warnings for patients at risk of coronary heart disease`.
+5. The proposed model aims to support preventive healthcare and clinical decision-making, helping reduce mortality through timely diagnosis and treatment.
+
+   
+
 ---
 ## Resources
 1. [Python Documentation](https://docs.python.org/3/)
