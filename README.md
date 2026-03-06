@@ -100,7 +100,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 
 1. This project aims to develop an automated breast cancer classification system using deep learning techniques to distinguish between benign and malignant tumors from BUS images. The dataset is located in the `data/Breast data` directory.
 2. The study will utilize the BUS-BRA Breast Ultrasound Dataset, which contains annotated ultrasound images with pathology-confirmed labels and lesion segmentation masks.
-3. Preprocessing techniques : `image resizing`, `normalization`, and `data augmentation` will be applied to improve data quality and enhance model generalization.
+3. Preprocessing techniques : image `resizing`, `normalization`, and data `augmentation` will be applied to improve data quality and enhance model generalization.
 4. A Convolutional Neural Network (`CNN`) or hybrid deep learning architecture will be used to automatically extract important features from the ultrasound images.
 5. The trained model will classify the breast lesions into benign or malignant categories based on the learned features.
 6. The performance of the proposed model will be evaluated using standard classification metrics such as accuracy, precision, recall, F1-score, and AUC.
