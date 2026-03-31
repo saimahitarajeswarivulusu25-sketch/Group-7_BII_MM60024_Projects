@@ -84,7 +84,7 @@
 4. That's it! `Congratulations!!` have successfully submitted your final project.
 
 ### Deadline
-The deadline for the final project submission is April 2026, 23:59 IST. (will updated soon)
+The deadline for the final project submission is 1st May 2026, 23:59 IST. (Tentatively)
 
 ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
