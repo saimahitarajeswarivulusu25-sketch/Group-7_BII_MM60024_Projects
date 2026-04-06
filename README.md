@@ -96,7 +96,7 @@ The deadline for the final project submission is 1st May 2026, 23:59 IST. (Tenta
 | Group 14 | [Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods](#project-5--Prostate-Cancer-Diagnosis-Using-Machine-Learning-Methods) | _ |
 | Group 7 | [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging) | _ |
 | Group 15 | [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images) | _ |
-| Group 12 | [Project 8 : Explainable Survival Prediction of Liver Cirrhosis Patients](#Project-8--Explainable-Survival-Prediction-of-Liver-Cirrhosis-Patients) | _ |
+| Group 8 & 12 | [Project 8 : Explainable Survival Prediction of Liver Cirrhosis Patients](#Project-8--Explainable-Survival-Prediction-of-Liver-Cirrhosis-Patients) | _ |
 | Group 9 | [Project 9 : Multiorgan Segmentation Using the AbdomenAtlas Mini Dataset](#Project-9--Multiorgan-Segmentation-Using-the-AbdomenAtlas-Mini-Dataset) | _ |
 |  | [Project 10 : Automatic Skin Lesion Segmentation from Dermoscopic Images](#Project-10--Automatic-Skin-Lesion-Segmentation-from-Dermoscopic-Images) | _ |
 |  | [Project 11 : Multimodal Image Fusion of MRI and SPECT Brain Images](#Project-11--Multimodal-Image-Fusion-of-MRI-and-SPECT-Brain-Images) | _ |
