@@ -81,9 +81,13 @@ This project focuses on detecting pneumonia from chest X-ray images using deep l
 ## 📌 Notes
 - This project is developed as part of **Biomedical Imaging Informatics (MM60024)** coursework by group 7
 - **22BT30022 Rahul Choudhary**
+  
 **22BT30030 Supratim Sarkar**
+  
 **22BT30009 Banoth Arun**
+
   **25MM61R16 Aman Kumar**
+  
 **25MM61R03 Sai Mahitha Rajeswari Vulusu**
 - The model can be further improved using fine-tuning and larger datasets.
 
