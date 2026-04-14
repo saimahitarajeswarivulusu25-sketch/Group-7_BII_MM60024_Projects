@@ -67,18 +67,3 @@ This project focuses on detecting pneumonia from chest X-ray images using deep l
 - Classification report generated
 - Prediction on custom uploaded images supported
 
----
-
-## ▶️ How to Run
-
-1. Open the notebook in **Google Colab**
-2. Mount Google Drive
-3. Upload or link dataset (train, val, test folders)
-4. Run all cells sequentially
-5. Upload an X-ray image to test predictions
-
----
-
-## 💾 Model Saving
-- Best model is saved automatically using ModelCheckpoint
-- File saved as:
